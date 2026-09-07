@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ Hi, I'm **Harsh Jadav**
 ### 🚀 Data Scientist | Data Analyst | Machine Learning Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Harsh+Jadav+%7C+Data+Scientist+%26+Data+Analyst;34K%2B+Flights+Telemetry+Anomaly+Detection+(PCA-DBSCAN);High-Precision+Fraud+ML+Pipeline+(94.05%25+Precision);Advanced+SQL+Architect+%E2%80%A2+Power+BI+DAX+%E2%80%A2+Python+ML;Transforming+Complex+Data+into+Measurable+Business+Value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Harsh+Jadav+%7C+Data+Scientist+%26+Data+Analyst;34K%2B+Drone+Flights+Anomaly+Detection+(PCA-DBSCAN);High-Precision+Fraud+ML+Pipeline+(94%25+Precision);Advanced+SQL+Architect+%E2%80%A2+Power+BI+DAX+%E2%80%A2+Python+ML;Turning+Complex+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 <br/>
 
