@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-jadavharsh109%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadavharsh109@gmail.com)
 [![Portfolio Repositories](https://img.shields.io/badge/Portfolio-9%20Production%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadavharsh109?tab=repositories)
 [![Location](https://img.shields.io/badge/Location-Gandhinagar%2C%20Gujarat%2C%20India-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Gandhinagar,Gujarat)
-[![Education](https://img.shields.io/badge/B.E.-Computer%20Engineering%20(8.20%20CGPA)-orange?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/jadavharsh109)
+[![Views](https://komarev.com/ghpvc/?username=jadavharsh109&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jadavharsh109)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-| 🚁 34,000+ | 💳 280,000+ | 🎯 94% | ⏱️ 30% | 🏏 500+ | 🎓 8.20 / 10 |
+| 🚁 34,000+ | 💳 280,000+ | 🎯 94% | ⏱️ ~30% | 🏏 500+ | 🎓 8.20 / 10 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Drone Telemetry Flights**<br/>Anomaly Detection (PCA-DBSCAN) | **Financial Records**<br/>SMOTE Class Imbalance Pipeline | **Classification Accuracy**<br/>Random Forest & Decision Trees | **Efficiency Improvement**<br/>Automated Inventory Reorder Logic | **Athletes Ranked**<br/>Advanced SQL CTEs & Windows | **B.E. Computer Engineering**<br/>Academic Excellence (GTU) |
 
@@ -113,9 +113,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Harsh's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Harsh's GitHub Stats" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Top Languages" />
 
 </div>
 
