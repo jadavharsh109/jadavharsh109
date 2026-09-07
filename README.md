@@ -65,12 +65,13 @@ I am a results-driven **Data Analyst & Data Scientist** and Computer Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Harsh's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Harsh's Top Languages" />
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Harsh's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Harsh's Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadavharsh109&theme=tokyonight&hide_border=true" alt="Harsh's Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=jadavharsh109&theme=tokyonight&hide_border=true" alt="Harsh's Streak Stats" />
 
 </div>
 
