@@ -3,7 +3,7 @@
 # ⚡ Hi, I'm **Harsh Jadav**
 ### 🚀 Data Scientist | Data Analyst | Machine Learning Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Harsh+Jadav+%7C+Data+Scientist+%26+Data+Analyst;34K%2B+Flights+Telemetry+Anomaly+Detection+(PCA-DBSCAN);280K%2B+Fraud+Transactions+Classified+(~94%25+Accuracy);Advanced+SQL+Architect+%E2%80%A2+Power+BI+DAX+%E2%80%A2+Python+ML;Transforming+Complex+Data+into+Measurable+Business+Value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Harsh+Jadav+%7C+Data+Scientist+%26+Data+Analyst;34K%2B+Flights+Telemetry+Anomaly+Detection+(PCA-DBSCAN);High-Precision+Fraud+ML+Pipeline+(94.05%25+Precision);Advanced+SQL+Architect+%E2%80%A2+Power+BI+DAX+%E2%80%A2+Python+ML;Transforming+Complex+Data+into+Measurable+Business+Value)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-| 🚁 34,000+ | 💳 280,000+ | 🎯 94% | ⏱️ ~30% | 🏏 500+ | 🎓 8.20 / 10 |
+| 🚁 34,000+ | 💳 280,000+ | 🎯 94.05% | ⏱️ ~30% | 🏏 500+ | 🎓 8.20 / 10 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Drone Telemetry Flights**<br/>Anomaly Detection (PCA-DBSCAN) | **Financial Records**<br/>SMOTE Class Imbalance Pipeline | **Classification Accuracy**<br/>Random Forest & Decision Trees | **Efficiency Improvement**<br/>Automated Inventory Reorder Logic | **Athletes Ranked**<br/>Advanced SQL CTEs & Windows | **B.E. Computer Engineering**<br/>Academic Excellence (GTU) |
+| **Drone Telemetry Flights**<br/>Anomaly Detection (PCA-DBSCAN) | **Financial Records**<br/>SMOTE Class Imbalance Pipeline | **Fraud Detection Precision**<br/>Minimal False Alarms (Random Forest) | **Efficiency Improvement**<br/>Automated Inventory Reorder Logic | **Athletes Ranked**<br/>Advanced SQL CTEs & Windows | **B.E. Computer Engineering**<br/>Academic Excellence (GTU) |
 
 </div>
 
@@ -48,8 +48,8 @@
       <sub>📍 Remote | 🗓️ 01/2025 – 04/2025</sub>
       <br/><br/>
       <ul>
-        <li>💳 <b>Credit Card Fraud Detection:</b> Processed <b>280,000+ transactions</b>, building high-precision Decision Tree and Random Forest models achieving <b>~94% accuracy</b>.</li>
-        <li>⚖️ <b>Class Imbalance Handling:</b> Deployed <b>SMOTE</b> to handle severe fraud distribution skew; rigorously evaluated via Precision, Recall, F1-Score, and ROC-AUC metrics.</li>
+        <li>💳 <b>Credit Card Fraud Detection:</b> Processed <b>280,000+ transactions</b>, building a zero-leakage Random Forest pipeline achieving <b>94.05% Precision</b> and <b>84.11% AUPRC</b> on extreme class imbalance.</li>
+        <li>⚖️ <b>Class Imbalance Handling:</b> Deployed <b>SMOTE</b> and cost-sensitive reweighting to penalize fraud misclassification; evaluated via Precision, Recall, F1-Score, and PR curves.</li>
         <li>📈 <b>Actionable Visuals:</b> Generated fraud distribution heatmaps and classification boundaries with Matplotlib and Seaborn for business stakeholder reporting.</li>
       </ul>
     </td>
@@ -98,7 +98,7 @@
 | Project & Domain | Focus Area | Tech Stack | Highlights & Architecture |
 | :--- | :--- | :--- | :--- |
 | 🌾 **[Agricultural Crop Yield Analysis](https://github.com/jadavharsh109/Agricultural-Crop-Yield-Analysis-using-SQL-Python-Power-BI)** | **Full-Stack Enterprise Intelligence** | `Python` `SQL` `Power BI` `Excel` | Multi-stage end-to-end pipeline analyzing state crop yields, spatial maps, custom DAX measures, and executive dashboards. |
-| 💳 **[Credit Card Fraud Detection](https://github.com/jadavharsh109/credit-card-fraud-detection)** | **Machine Learning & FinTech** | `Python` `Scikit-Learn` `SMOTE` | Imbalanced classification on 280,000+ transactions, Random Forest & Decision Trees reaching ~94% accuracy with ROC-AUC tuning. |
+| 💳 **[Credit Card Fraud Detection](https://github.com/jadavharsh109/credit-card-fraud-detection)** | **Machine Learning & FinTech** | `Python` `Scikit-Learn` `SMOTE` | Zero-leakage pipeline on 280k+ transactions, Random Forest achieving **94.05% Precision**, **80.61% Recall**, and **84.11% AUPRC** with SMOTE imbalance handling. |
 | 🌍 **[Air Quality Power BI Analytics](https://github.com/jadavharsh109/air-quality-powerbi-analytics)** | **Business Intelligence (BI)** | `Power BI` `DAX` `Data Modeling` | Interactive environmental intelligence dashboard tracking AQI bands, pollutants, and geospatial time-series trends. |
 | 🏥 **[Hospital Visit & Billing System](https://github.com/jadavharsh109/Hospital-Patient-Visit-Billing-System)** | **Database Engineering** | `MySQL` `Stored Procedures` `Triggers` | Enterprise healthcare database architecture featuring automated ledger triggers, audit logs, and complex analytical views. |
 | 🛒 **[Global Retail Sales & Profit Analysis](https://github.com/jadavharsh109/Global-Retail-Sales-Profit-Analysis-Excel-Dashboard)** | **Financial Analytics & BI** | `Excel` `Pivot Tables` `Slicers` | Multi-sheet corporate financial dashboard tracking revenue, regional margins, shipping dynamics, and profitability drivers. |
