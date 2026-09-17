@@ -107,6 +107,19 @@
 | 📦 **[Inventory Management System](https://github.com/jadavharsh109/Inventory-Management-System)** | **Supply Chain Automation** | `Excel` `XLOOKUP` `Automation` | Dynamic stock monitoring system with automated restock alerts, safety threshold triggers, reducing manual effort by ~30%. |
 | 🌫️ **[AQI Excel Dashboard](https://github.com/jadavharsh109/AQI-dashboard-Excel-)** | **Spreadsheet Analytics** | `Excel` `Conditional Formatting` | Comprehensive environmental dashboard featuring pollutant tracking, KPI cards, and comparative city analyses. |
 
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Harsh's GitHub Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Top Languages" />
+
+</div>
+
+---
 
 ### 🤝 Let's Connect & Build High-Impact Solutions
 
