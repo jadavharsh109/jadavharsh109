@@ -121,8 +121,6 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadavharsh109&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Streak Stats" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
