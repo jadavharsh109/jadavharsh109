@@ -1,7 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm **Harsh Jadav**
-### 🚀 Data Scientist | Data Analyst | Machine Learning Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:10B981&height=200&section=header&text=Harsh%20Jadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Harsh+Jadav+%7C+Data+Scientist+%26+Data+Analyst;34K%2B+Drone+Flights+Anomaly+Detection+(PCA-DBSCAN);High-Precision+Fraud+ML+Pipeline+(94%25+Precision);Advanced+SQL+Architect+%E2%80%A2+Power+BI+DAX+%E2%80%A2+Python+ML;Turning+Complex+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
@@ -11,11 +10,11 @@
 [![Email](https://img.shields.io/badge/Email-jadavharsh109%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadavharsh109@gmail.com)
 [![Portfolio Repositories](https://img.shields.io/badge/Portfolio-9%20Production%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadavharsh109?tab=repositories)
 [![Location](https://img.shields.io/badge/Location-Gandhinagar%2C%20Gujarat%2C%20India-blueviolet?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Gandhinagar,Gujarat)
-[![Views](https://komarev.com/ghpvc/?username=jadavharsh109&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jadavharsh109)
+[![Views](https://komarev.com/ghpvc/?username=jadavharsh109&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jadavharsh109)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
-
----
 
 ### 📊 Key Performance Metrics at a Glance
 
@@ -27,7 +26,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 💼 Applied Industry Experience
 
@@ -56,24 +55,30 @@
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 🛠️ Technical Toolkit & Core Competencies
 
 <div align="center">
 
-| Domain | Technologies, Frameworks & Tools |
-| :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Machine Learning & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
-| **BI & Data Storytelling** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square) |
-| **Databases & Architecture** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Relational DB](https://img.shields.io/badge/Database_Modeling-555555?style=flat-square) |
-| **Core Concepts & ML Specialities** | `Exploratory Data Analysis (EDA)` `Anomaly Detection (PCA-DBSCAN)` `SMOTE Imbalance Handling` `ETL Pipelines` `DAX Modeling` `Feature Engineering` |
-| **Developer Tools & Environments** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
----
+| Domain | Focus |
+| :--- | :--- |
+| **Core Concepts** | `Exploratory Data Analysis` `Anomaly Detection (PCA-DBSCAN)` `SMOTE Imbalance Handling` `ETL Pipelines` `DAX Modeling` `Feature Engineering` |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 📜 Verified Certifications & Training
 
@@ -86,12 +91,11 @@
 [![Excel](https://img.shields.io/badge/Certified-Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/jadavharsh109)
 [![Java & C](https://img.shields.io/badge/Certified-Java%20%26%20C%20Programming-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/jadavharsh109)
 
-<br/>
 <sub><i>Trained across Python, Machine Learning, Statistical Analysis, and Business Intelligence via <b>Fly The Nest (Ahmedabad)</b> & <b>H&B Computer Education</b>.</i></sub>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 📂 Featured Production Repositories
 
@@ -107,30 +111,32 @@
 | 📦 **[Inventory Management System](https://github.com/jadavharsh109/Inventory-Management-System)** | **Supply Chain Automation** | `Excel` `XLOOKUP` `Automation` | Dynamic stock monitoring system with automated restock alerts, safety threshold triggers, reducing manual effort by ~30%. |
 | 🌫️ **[AQI Excel Dashboard](https://github.com/jadavharsh109/AQI-dashboard-Excel-)** | **Spreadsheet Analytics** | `Excel` `Conditional Formatting` | Comprehensive environmental dashboard featuring pollutant tracking, KPI cards, and comparative city analyses. |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Harsh's GitHub Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadavharsh109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="175" alt="Harsh's GitHub Stats" />
+&nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadavharsh109&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadavharsh109&theme=tokyonight&hide_border=true" height="175" alt="Harsh's Streak Stats" />
 
 </div>
 
----
-
-### 🤝 Let's Connect & Build High-Impact Solutions
-
-I am actively seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **Data Analyst**. Open to discussing data projects, ML models, or BI dashboard architecture!
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
+### 🤝 Let's Connect & Build High-Impact Solutions
+
+Actively seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **Data Analyst**. Open to discussing data projects, ML models, or BI dashboard architecture!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshjadav0901/)
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadavharsh109@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadavharsh109)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:2563EB&height=100&section=footer" width="100%"/>
 
 </div>
